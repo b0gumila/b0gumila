@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi! I'm Bogumila (bow-ge-me-la) (she/her), a spatial data scientist + landscape ecologist. 
 
 <!--
 **b0gumila/b0gumila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
